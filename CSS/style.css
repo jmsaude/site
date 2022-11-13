@@ -1,0 +1,12 @@
+body {
+    background-color: powderblue;
+  }
+  
+  h1 {
+    color: blue;
+    margin-left: 20px;
+  }
+  p {
+    color: red;
+    margin-left: 20px;
+  }
